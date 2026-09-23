@@ -1,0 +1,7 @@
+[
+    {"customer_id": "C001", "name": "Ahmed", "country": "Egypt"},
+    {"customer_id": "C002", "name": "Omar", "country": "Egypt"},
+    {"customer_id": "C003", "name": "Mariam", "country": "Egypt"},
+    {"customer_id": "C004", "name": "John", "country": "USA"},
+    {"customer_id": "C005", "name": "Sara", "country": "Egypt"}
+]

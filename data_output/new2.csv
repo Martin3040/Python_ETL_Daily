@@ -1,0 +1,14 @@
+Order ID,Customer Name,Customer id,Product,Category,Quantity,Price,Order Date,Status,Total Revenue,Discounted Price
+1001,Ahmed,C001,Laptop,Electronics,1,1200,2026-09-01,completed,1200.0,1080.0
+1002,Omar,C002,Mouse,Electronics,2,25,2026-09-01,completed,50.0,47.5
+1003,Ahmed,C001,Keyboard,Electronics,1,75,2026-09-02,completed,75.0,63.75
+1004,Mariam,C003,Desk,Furniture,1,300,2026-09-02,cancelled,300.0,285.0
+1005,John,C004,Chair,Furniture,2,150,2026-09-03,completed,300.0,270.0
+1006,Omar,C002,Monitor,Electronics,1,400,2026-09-03,completed,400.0,368.0
+1007,Sara,C005,Notebook,Stationery,5,4,2026-09-04,completed,20.0,16.0
+1008,Ahmed,C001,Pen,Stationery,10,2,2026-09-04,completed,20.0,20.0
+1009,Mariam,C003,Laptop,Electronics,1,1200,2026-09-05,completed,1200.0,1080.0
+1010,Unknown,C006,Desk,Furniture,1,300,2026-09-05,completed,300.0,285.0
+1013,Unknown,C008,Chair,Furniture,2,150,2026-09-07,cancelled,300.0,270.0
+1014,Unknown,C009,Monitor,Electronics,2,400,2026-09-07,completed,800.0,736.0
+1015,Unknown,C010,Notebook,Stationery,3,4,2026-09-08,completed,12.0,9.6

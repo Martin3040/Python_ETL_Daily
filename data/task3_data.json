@@ -1,0 +1,10 @@
+[
+    {"product": "Laptop", "discount": 0.10},
+    {"product": "Mouse", "discount": 0.05},
+    {"product": "Keyboard", "discount": 0.15},
+    {"product": "Monitor", "discount": 0.08},
+    {"product": "Chair", "discount": 0.10},
+    {"product": "Desk", "discount": 0.05},
+    {"product": "Notebook", "discount": 0.20},
+    {"product": "Pen", "discount": 0.00}
+]

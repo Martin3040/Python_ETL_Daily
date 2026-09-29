@@ -59,7 +59,7 @@ with open('data\open.csv', mode='r', newline='', encoding='utf-8') as file:
         #Exporting the cleaned data to a new CSV file
         def export_cleaned_csv():
 
-            export_file = 'data_output\new2.csv'
+            export_file = 'data_output\\new2.csv'
             with open(export_file, mode='w', newline='', encoding='utf-8') as file:
                     csv_writer = csv.writer(file)
                     # Write the header row

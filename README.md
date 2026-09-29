@@ -120,6 +120,20 @@ The project is gradually evolving from a simple CSV script into a more complete 
 Future days will gradually replace these simplified local data sources with more realistic Data Engineering components such as APIs, databases, larger datasets, and pipeline tools.
 
 ---
+### Day 4 — REST API ETL
+
+**Flow:**
+```text
+REST API → HTTP Validation → JSON Parsing → Data Validation → Transformation → CSV
+```
+
+- Extract product data from a REST API using `requests`
+- Validate the API response and required fields
+- Handle nested and missing data
+- Normalize inconsistent capacity fields
+- Create a standardized `capacity_gb` field
+- Filter invalid records and preserve valid records with optional missing values
+- Export cleaned and transformed data to CSV
 
 ## Technologies
 
